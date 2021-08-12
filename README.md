@@ -1,6 +1,6 @@
 
    <h1> Ola! Eu sou o Lucas Paulus※</h1>
-    <p>EN: Hello! I am Lucas Paulus <br><br></p>
+    <h2>EN: Hello! I am Lucas Paulus <br><br></h2>
 
 🎓 Estudando Programação e idiomas.
 ##
