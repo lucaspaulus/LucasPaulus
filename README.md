@@ -1,10 +1,10 @@
 
    # Ola! Eu sou o Lucas Paulus※ 
-   Hello! I am Lucas Paulus
+ ✌😊Hello! I am Lucas Paulus
 
-🎓 Estudando Programação e idiomas.
+* 🎓 Estudando Programação e idiomas.
 ##
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="LP-HTML" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="LP-CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
