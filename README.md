@@ -1,5 +1,5 @@
 
-   ## Ola! Eu sou o Lucas Paulus※ 
+   # Ola! Eu sou o Lucas Paulus※ 
    Hello! I am Lucas Paulus
 
 🎓 Estudando Programação e idiomas.
