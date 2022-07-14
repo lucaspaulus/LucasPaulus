@@ -1,7 +1,7 @@
 
    ### ✌😊 Ola! me chamo Lucas. 
 ## 💻 Sobre mim
-Ola bem-vindo! irei lhe contar um belo resumo da minha história.
+bem-vindo! irei lhe contar um belo resumo da minha história.
 Fiz estágio em um cartório como auxliar administrativo. estudei engenharia civil até o 6º semestre, e tbm trabalhei com markenting digital, descobri que engenharia não era o que eu queria para minha vida, foi então que decidi focar no markenting digital, fiquei um bom tempo no markenting digital.
 
 Passando um tempo, vi um anuncio da kenzie, e foi ai que descobri o que eu realmente quero para minha vida, pois eu gosto de fazer tudo que é relacionado à computador, e como eu ja trabalhava no marketing digital onde eu precisava ser muito criativo, onde eu considero um dos meus pontos mais forte.
