@@ -12,11 +12,11 @@ E estou até hoje estudando na kenzie, atualmente estou no modulo m4, ja termine
 
 Abraços para quem leu até aqui.
 
-* 🎓 Estudando desenvolvimento web Full Stack.
 ```
 {
-   Escola: Kenzie Academy Brasil,
-   Status: Concluindo m4
+   "Curso" : "Desenvolvimento Web Full Stack"
+   "Escola": "Kenzie Academy Brasil",
+   "Status": "Concluindo MÓDULO 4"
 }
 
  ```
