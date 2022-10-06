@@ -12,15 +12,6 @@ E estou até hoje estudando na kenzie, atualmente estou no modulo m4, ja termine
 
 Abraços para quem leu até aqui.
 
-```
-{
-   "Curso" : "Desenvolvimento Web Full Stack"
-   "Escola": "Kenzie Academy Brasil",
-   "Status": "Concluindo MÓDULO 4"
-}
-
- ```
-
 
 <div style="display: inline_block">
    <h2>🚀 Minhas Tecnologias</h2>
