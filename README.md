@@ -1,16 +1,7 @@
 
    ### ✌😊 Ola! me chamo Lucas. 
 ## 💻 Sobre mim
-Bem-vindo! irei lhe contar um belo resumo da minha história.
-Fiz estágio em um cartório como auxliar administrativo. estudei engenharia civil até o 6º semestre, e tbm trabalhei com markenting digital, descobri que engenharia não era o que eu queria para minha vida, foi então que decidi focar no markenting digital, fiquei um bom tempo no markenting digital.
-
-Passando um tempo, vi um anuncio da kenzie, e foi ai que descobri o que eu realmente quero para minha vida, pois eu gosto de fazer tudo que é relacionado à computador, e como eu ja trabalhava no marketing digital onde eu precisava ser muito criativo, onde eu considero um dos meus pontos mais forte.
-
-Fiz a entrevista da kenzie, mas não passei na primeira entrevista, tentei a segunda e também não consegui pois o curso é muito concorrido, mas como eu sou muito resiliente, tentei a terceira vez, e dessa vez deu certo.
-
-E estou até hoje estudando na kenzie, atualmente estou no modulo m4, ja terminei o front end, e agora estou no back end, e é isso!!! espero poder encontrar uma empresa, que agregue ao meu conhecimento e que eu possa tbm agregar no desenvolvimento da empresa.
-
-Abraços para quem leu até aqui.
+Trabalhei como auxiliar em um cartório por 5 anos, depois fui para a area de marketing digital e hoje sou desenvolvedor Front End e amante de design UX/UI. 
 
 
 <div style="display: inline_block">
