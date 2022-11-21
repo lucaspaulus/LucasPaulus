@@ -1,7 +1,8 @@
 
 ### ✌😊 Ola! me chamo Lucas. 
 ## 🙋‍♂️ Sobre mim
-Trabalhei como auxiliar em um cartório por 5 anos, depois fui para a area de marketing digital e hoje sou desenvolvedor Front End e amante de design UX/UI. 
+Trabalhei como auxiliar em um cartório por 5 anos, depois fui para a área de marketing digital e hoje sou desenvolvedor front end, apaixonado por design UX/UI. 
+
  
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lucaspaulus&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
