@@ -5,14 +5,19 @@ Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experi
 
 Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor front-end, onde tenho trabalhado em projetos que envolvem a criação de interfaces atraentes e intuitivas para os usuários, garantindo uma experiência de usuário otimizada em cada etapa do processo.
 
+<br/>
+<br/>
+<br/>
  
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
+ <div align="center">
+  <a href="https://github.com/lucaspaulus"><img src="https://img.shields.io/badge/PRs-welcome-blue.svg"/></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=lucaspaulus&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue" />
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/lucaspaulus/lucaspaulus?logo=markdown&label=LAST+UPDATE&color=blue&style=flat" />
-<br/>
+ </div>
 <br/>
 <br/>
 
+ 
 <div align="center">
   <h2> 🚀 Minhas Tecnologias </h2>
   
@@ -34,7 +39,7 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 </div>
 <br/>
 <br/>
-<br/>
+
 
 <div align="center"  >
   <h2> 📚 Estudando</h2>
@@ -42,8 +47,7 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
    <p>*Certificação Lpic -1</p>
 </div>
 <br/>
-<br/>
-<br/>
+
 
 <div>
 <h3>Estatísticas Github</h3>   
