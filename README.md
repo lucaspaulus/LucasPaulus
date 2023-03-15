@@ -20,22 +20,11 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
  
 <div align="center">
   <h2> 🚀 Minhas Tecnologias </h2>
+  <div>
+    <img src="https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git,github,postgres,ts,docker,figma&theme=dark"/>
+  </div>
   
-  <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" />	
-  <img src="https://img.shields.io/badge/-html-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-reactjs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
+ 
 </div>
 <br/>
 <br/>
@@ -43,8 +32,8 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 
 <div align="center"  >
   <h2> 📚 Estudando</h2>
-   <p>*Desenvolvimento Back End</p>
-   <p>*Certificação Lpic -1</p>
+   <p>*Desenvolvimento Full Stack - GrowDev</p>
+    
 </div>
 <br/>
 
