@@ -1,7 +1,9 @@
 
 ### ✌😊 Ola! me chamo Lucas. 
 ## 🙋‍♂️ Sobre mim
-Trabalhei como auxiliar em um cartório por 5 anos, depois fui para a área de marketing digital e hoje sou desenvolvedor front end, apaixonado por design UX/UI. 
+Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experiência anterior em auxiliar em um cartório e trabalhar na área de marketing digital, trago habilidades em lidar com processos e documentos com precisão e eficiência, bem como em estratégias de marketing online e gerenciamento de projetos.
+
+Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor front-end, onde tenho trabalhado em projetos que envolvem a criação de interfaces atraentes e intuitivas para os usuários, garantindo uma experiência de usuário otimizada em cada etapa do processo.
 
  
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/henriquemarioto)
