@@ -41,9 +41,14 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
   
 <br>
 </div>
- 
+
+ <div align="center">
+ <h2> 🚀 Soft Skills</h2>
+ <div>
+      Comunicação | Criatividade | Resolução de problemas e Gerenciamento de tempo
+ </div>
 <div align="center">
- <h2> 🚀 Minhas Tecnologias </h2>
+ <h2> 🚀 Hard Skills</h2>
  <div>
     <img src="https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git,github,postgres,ts,docker,figma&theme=dark"/>
  </div>
