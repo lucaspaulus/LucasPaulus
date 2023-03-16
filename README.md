@@ -26,12 +26,20 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 <br/>
 <br/>
 
- 
+ <div align="center">
+ <br>
+  <h2> 🎯 Hobbies </h2>
+  <p>♟️ Jogar Xadrez</p>
+  <p>🎮 Jogar Video Games</p>
+  <p>📺 Assistir Séries</p>
+  <p>⚽ Assistir Futebol</p>
+ <br>
+ </div>
 <div align="center">
-  <h2> 🚀 Minhas Tecnologias </h2>
-  <div>
+ <h2> 🚀 Minhas Tecnologias </h2>
+ <div>
     <img src="https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git,github,postgres,ts,docker,figma&theme=dark"/>
-  </div>
+ </div>
   
  
 </div>
