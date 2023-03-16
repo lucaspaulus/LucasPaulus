@@ -45,8 +45,10 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
  <div align="center">
  <h2> 🚀 Soft Skills</h2>
  <div>
+
       Comunicação | Criatividade | Resolução de problemas e Gerenciamento de tempo
  </div>
+ <br>
 <div align="center">
  <h2> 🚀 Hard Skills</h2>
  <div>
