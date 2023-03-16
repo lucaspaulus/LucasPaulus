@@ -4,7 +4,7 @@
  <img src="img/github-header-image.png"  />
 </div>
 
-## 🙋‍♂️ Sobre mim
+<h1 align="center"> 🙋‍♂️ Sobre mim </h1>
 <div align="center">
 <p  align="left">
 Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experiência anterior em auxiliar em um cartório e trabalhar na área de marketing digital, trago habilidades em lidar com processos e documentos com precisão e eficiência, bem como em estratégias de marketing online e gerenciamento de projetos.
