@@ -6,12 +6,12 @@
  <img src="img/github-header-image.png"  />
 </div>
 
-<div align="left" width="250px">
-<p>
- Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experiência anterior em auxiliar em um cartório e trabalhar na área de marketing digital, trago habilidades em lidar com processos e documentos com precisão e eficiência, bem como em estratégias de marketing online e gerenciamento de projetos.
+<div align="center">
+<p  align="left">
+Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experiência anterior em auxiliar em um cartório e trabalhar na área de marketing digital, trago habilidades em lidar com processos e documentos com precisão e eficiência, bem como em estratégias de marketing online e gerenciamento de projetos.
 
 </p>
-<p>
+<p align="left">
 Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor front-end, onde tenho trabalhado em projetos que envolvem a criação de interfaces atraentes e intuitivas para os usuários, garantindo uma experiência de usuário otimizada em cada etapa do processo.
 </p>
 </div>
