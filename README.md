@@ -52,11 +52,16 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 </div>
 <br/>
 <br/>
-
-
+<div align="center">
+ <h2>🎓 Formação</h2>
+ <p> Desenvolvimento Front End </p>
+ <p>🏫 School: Kenzie Academy </p>
+</div>
+<br>
 <div align="center"  >
   <h2> 📚 Estudando</h2>
-   <p>*Desenvolvimento Full Stack - GrowDev</p>
+  <p>*Desenvolvimento Full Stack</p>
+ <p>🏫 School: GrowDev</p> 
     
 </div>
 <br/>
