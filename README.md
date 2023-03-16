@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ Sobre mim
 <div align="left">
- <img src="img/banner.png" width="250px"/>
+ <img src="img/github-header-image.png" width="250px"/>
 </div>
 
 <div align="left" width="250px">
