@@ -30,7 +30,7 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 
  <div align="center">
  <br>
- 
+ <h2>🎯 Meus Hobbies </h2>
    
   🎯Hobbies              |
   -----------------------|
