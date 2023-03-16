@@ -26,15 +26,22 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 <br/>
 <br/>
 
+
+
  <div align="center">
  <br>
-  <h2> 🎯 Hobbies </h2>
-  <p>♟️ Jogar Xadrez</p>
-  <p>🎮 Jogar Video Games</p>
-  <p>📺 Assistir Séries</p>
-  <p>⚽ Assistir Futebol</p>
- <br>
- </div>
+ 
+   
+  🎯Hobbies              |
+  -----------------------|
+  ♟️ Jogar Xadrez        |
+  🎮 Jogar Video Games   | 
+  📺 Assistir Séries     |
+  ⚽ Assistir Futebol    |
+  
+<br>
+</div>
+ 
 <div align="center">
  <h2> 🚀 Minhas Tecnologias </h2>
  <div>
@@ -69,6 +76,9 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 
 
 
+ 
+
+ 
 
 
 
