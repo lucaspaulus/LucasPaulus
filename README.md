@@ -30,9 +30,9 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 
  <div align="center">
  <br>
- <h2>🎯 Meus Hobbies </h2>
+ <h2>🎲 Meus Hobbies </h2>
    
-  🎯Hobbies              |
+  🎲Hobbies              |
   -----------------------|
   ♟️ Jogar Xadrez        |
   🎮 Jogar Video Games   | 
@@ -43,14 +43,14 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 </div>
 
  <div align="center">
- <h2> 🚀 Soft Skills</h2>
+ <h2> ☺️ Soft Skills</h2>
  <div>
 
-      Comunicação | Criatividade | Resolução de problemas e Gerenciamento de tempo
+      👄Comunicação | 🦸Criatividade | 🎯 Resolução de problemas e ⌛ Gerenciamento de tempo
  </div>
  <br>
 <div align="center">
- <h2> 🚀 Hard Skills</h2>
+ <h2> 🔨 Hard Skills</h2>
  <div>
     <img src="https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,git,github,postgres,ts,docker,figma&theme=dark"/>
  </div>
@@ -61,13 +61,13 @@ Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor fr
 <br/>
 <div align="center">
  <h2>🎓 Formação</h2>
- <p> Desenvolvimento Front End </p>
+ <p> ➡️ Desenvolvimento Front End </p>
  <p>🏫 School: Kenzie Academy </p>
 </div>
 <br>
 <div align="center"  >
   <h2> 📚 Estudando</h2>
-  <p>*Desenvolvimento Full Stack</p>
+  <p>➡️ Desenvolvimento Full Stack</p>
  <p>🏫 School: GrowDev</p> 
     
 </div>
