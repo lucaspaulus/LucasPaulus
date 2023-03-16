@@ -2,8 +2,8 @@
 ### ✌😊 Ola! me chamo Lucas. 
 
 ## 🙋‍♂️ Sobre mim
-<div align="left">
- <img src="img/github-header-image.png" width="250px"/>
+<div align="center">
+ <img src="img/github-header-image.png"  />
 </div>
 
 <div align="left" width="250px">
