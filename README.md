@@ -7,12 +7,9 @@
 <h1 align="center"> 🙋‍♂️ Sobre mim </h1>
 <div align="center">
 <p  align="left">
-Sou um desenvolvedor front-end com uma paixão pelo design UX/UI. Com uma experiência anterior em auxiliar em um cartório e trabalhar na área de marketing digital, trago habilidades em lidar com processos e documentos com precisão e eficiência, bem como em estratégias de marketing online e gerenciamento de projetos.
+Meu nome é Lucas Paulus, mas pode me chamar apenas de Lucas. Estudei alguns semestres de engenharia civil, mas decidi fazer uma transição para desenvolvedor front-end, o que deu muito certo. Hoje, sou apaixonado por React ❤. Também trabalhei no marketing digital, pelo qual já fiz mais de 100 vendas de um ebook digital.
+</p>
 
-</p>
-<p align="left">
-Minha paixão pelo design UX/UI me levou a seguir carreira como desenvolvedor front-end, onde tenho trabalhado em projetos que envolvem a criação de interfaces atraentes e intuitivas para os usuários, garantindo uma experiência de usuário otimizada em cada etapa do processo.
-</p>
 </div>
 <br/>
 <br/>
